@@ -4,7 +4,7 @@ public enum SearchTermsEnum {
 
     START_RENDERING("Executing request startRendering with arguments"),
     UNIQUE_ID("Service startRendering returned"),
-    GET_RENDERING("getRendering");
+    GET_RENDERING("Executing request getRendering with arguments");
 
     private String term;
 

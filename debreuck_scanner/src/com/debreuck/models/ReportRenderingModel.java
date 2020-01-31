@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class ReportRenderingModel {
 
+    private String Thread;
     private Integer DocumentId;
     private Integer Page;
     private String UUID;
@@ -49,5 +50,13 @@ public class ReportRenderingModel {
 
     public void setTStampsGetRendering(ArrayList<LocalDateTime> TStampsGetRendering) {
         this.TStampsGetRendering = TStampsGetRendering;
+    }
+
+    public String getThread() {
+        return Thread;
+    }
+
+    public void setThread(String thread) {
+        Thread = thread;
     }
 }

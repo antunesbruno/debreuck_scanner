@@ -55,68 +55,73 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1580379882662">
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580490064815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580379882662" />
-    <state x="296" y="136" key="#xdebugger.evaluate" timestamp="1580388942623">
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1580490064815" />
+    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1580469350370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="136" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1580388942623" />
-    <state width="458" height="466" key="DebuggerActiveHint" timestamp="1580398744893">
+    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580469350370" />
+    <state x="187" y="140" width="655" height="492" key="#xdebugger.XInspectDialog" timestamp="1580484777684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="458" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1580398744893" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1580398713672">
+    <state x="187" y="140" width="655" height="492" key="#xdebugger.XInspectDialog/0.0.1366.728@0.0.1366.728" timestamp="1580484777684" />
+    <state x="296" y="136" key="#xdebugger.evaluate" timestamp="1580485859870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580398713672" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1580398713672">
+    <state x="296" y="136" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1580485859870" />
+    <state width="471" height="466" key="DebuggerActiveHint" timestamp="1580487453000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580398713672" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1580398713671">
+    <state width="471" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1580487453000" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1580484781703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580398713671" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1580398713672">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1580484781703" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1580490228342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580398713672" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580398714770">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1580490228342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580398714770" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580398714770">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1580490228342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580398714770" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580398714770">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1580490228342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580398714770" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580398714770">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580490228342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580398714770" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580490228342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580490228342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580490228342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580490228342" />
     <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1580388477025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1580388477025" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580390685361">
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580482042779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580390685361" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/debreuck/analysis/LogAnalysis.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1580482042779" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580487255242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580487255242" />
   </component>
 </project>
